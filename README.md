@@ -1,5 +1,7 @@
 # Haproxy-redis
 
+A Haproxy configured for Redis (Especially AWS Elasticache and co)
+
 Inspired by:
 - https://github.com/rentlytics/nginx-redis
 - https://medium.com/driven-by-code/dynamic-dns-resolution-in-nginx-22133c22e3ab
